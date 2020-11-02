@@ -1,5 +1,0 @@
-2020/11/02-12:19:20.842 4e54 Reusing MANIFEST C:\Users\Abdim\Desktop\python projects\instaBot\driver\data\Default\IndexedDB\https_2126ec42f4d7ff7d6d6061ae403b4cc9.safeframe.googlesyndication.com_0.indexeddb.leveldb/MANIFEST-000001
-2020/11/02-12:19:30.573 4e54 Level-0 table #5: started
-2020/11/02-12:19:30.574 4e54 Level-0 table #5: 439 bytes OK
-2020/11/02-12:19:30.574 4e54 Delete type=0 #3
-2020/11/02-12:19:30.574 4e54 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
